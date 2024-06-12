@@ -32,7 +32,7 @@ Note that nginx [stream module](https://nginx.org/en/docs/stream/ngx_stream_core
 
 Also a customed [patch](patches/stream-lua-readpartial.patch) from [@fcicq](https://github.com/fcicq) is needed. The origin discussion can be found [here](https://github.com/fffonion/lua-resty-sniproxy/issues/1).
 
-Tested on Openresty 1.13.6.1.
+Tested on Openresty 1.13.6.1 and Openresty 1.25.3.1.
 
 [Back to TOC](#table-of-contents)
 
